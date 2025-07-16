@@ -30,12 +30,19 @@ Applying for a Home Depot credit card is easy and can be done online or in-store
 **Online Application via homedepot.com/mycard**
 
 - Visit: https://www.homedepot.com/mycard
+
 - Click on “Apply Now” or “Request a Card”
+
 - Fill out the application form with your personal information:
+
   - Name, address, and contact info
+
   - Social Security Number
+
   - Employment and income details
+
 - Submit the application and wait for instant approval
+
 - If approved, your card arrives by mail in 7–10 business days
 
 **In-Store Application**
@@ -46,19 +53,28 @@ How to Log In to homedepot.com/mycard
 -------------------------------------
 
 - Visit: https://www.homedepot.com/mycard
+
 - Click “Sign In” at the top-right
+
 - Enter your username and password
+
 - Complete any 2-factor authentication if required
+
 - Access your account dashboard
 
 Features and Benefits of Managing Your Card Online
 --------------------------------------------------
 
 - **Check Your Balance** – Know how much you owe anytime
+
 - **Pay Your Bill** – Make one-time or automatic payments
+
 - **View Transactions** – See purchases, returns, and credits
+
 - **Manage Alerts** – Get text or email reminders
+
 - **Update Info** – Change your contact or billing details
+
 - **Exclusive Offers** – Receive financing and promo deals
 
 FAQs
@@ -68,15 +84,19 @@ FAQs
 It’s the official Home Depot credit card portal to manage balance, payments, and more.
 
 **Q2. How do I apply for a Home Depot credit card?**  
-Visit `homedepot.com/mycard <https://www.homedepot.com/mycard>`_ and click "Apply Now."
+
+Visit `homedepot.com/mycard <#>`_ and click "Apply Now."
 
 **Q3. How can I pay my Home Depot credit card bill?**  
+
 You can pay online, by phone, mail, or in-store at participating locations.
 
 **Q4. What if I forget my login password?**  
+
 Click “Forgot Password” to reset it with your email or mobile number.
 
 **Q5. Is there a mobile app to manage my card?**  
+
 Yes, use the Citibank app or mobile browser for easy access.
 
 Conclusion
